@@ -1798,4 +1798,4 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
 
 ![Alt text](interconnectiondevices.png)
 
-### 5.4.4 Virtual Local Area Networks (VLANs)
+### 5.4.4 Virtual Local Area Networks (VLANs) 
